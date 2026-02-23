@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Avong Sarah Celina
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Power BI, Excel and SQL
-- 💞️ I’m looking to collaborate on data projects that will help me build my experince and expertise
-- 📫 You can reach me on avongsarah9@gmail.com
+- 👀 I’m a Data Scientist
+- 🌱 I’m building my skills in Bioinformatics and Data Engineering
+- 💞️ I’m looking to collaborate on data projects that will help me build my experience and expertise
+- 📫 You can reach me at celinaavong@gmail.com
 
 <!---
 Avong09/Avong09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
